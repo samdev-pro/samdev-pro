@@ -20,8 +20,9 @@ I enable construction and commissioning teams to move from manual spreadsheets t
 
 ## 📂 Featured Projects
 
-- **Data Center QC Dashboard** – Developed automated quality-control reporting and KPI visualization systems, including an internal Smartsheet and an external web-based dashboard, to demonstrate project tracking, NCR management, and performance analytics for data center construction projects.<br />
-- **KPI Construction Bot** – Created automated KPI email reports and dashboards for construction QC and budgeting workflows.
+- **Data Center QC Dashboard** – Designed and implemented automated quality-control reporting and KPI visualization systems, including an internal Smartsheet interface and an external web-based dashboard. Enables project teams to track NCRs, punch-list items, and performance analytics across data center builds — helping to visualize strengths and weaknesses for faster decision-making.
+
+- **KPI Construction Bot** – Built a Python-based automation engine that generates and emails KPI reports for QC and budgeting workflows. Streamlines data processing, reduces manual reporting time, and ensures timely delivery of actionable project metrics.
 
 ---
 
