@@ -4,6 +4,8 @@ I build automation systems and data pipelines that convert raw construction and 
 
 By bridging construction tech with data engineering, I help teams replace manual Smartsheet/Excel chaos with scalable analytics and reporting tools.
 
+I enable construction and commissioning teams to move from manual spreadsheets to automated data pipelines and real-time dashboards.
+
 ---
 
 ## 🧰 What I do
@@ -36,7 +38,6 @@ By bridging construction tech with data engineering, I help teams replace manual
 **Web Frameworks:** Astro · React · Tailwind CSS  
 **APIs & Integration:** Smartsheet API · Procore API · REST APIs · JSON · CSV  
 **Dev Tools:** GitHub · Virtual Environments · Cursor AI · ChatGPT · LLM Parsing
-
 
 ---
 
