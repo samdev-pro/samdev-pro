@@ -44,5 +44,5 @@ I enable construction and commissioning teams to move from manual spreadsheets t
 
 ## 🤝 Contact
 
-Interested in how I can help your team transform its construction data workflows? Let’s connect below.<br />
+Interested in how I can help your team transform its construction data workflows? Let’s connect.<br />
 📧 [Email Me](mailto:sam@samhuss.dev)  💼 [LinkedIn](https://www.linkedin.com/in/samhuss/)
