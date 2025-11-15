@@ -1,8 +1,8 @@
 # 🏗️ Sam H — Construction Data Engineer & Digital Delivery Specialist
 
-I build automation systems and data pipelines that convert raw construction and field data into polished dashboards and insights. 
+I build automation systems and data pipelines that convert raw construction and field data into polished dashboards and insights.
 
-By bridging construction tech with data engineering, I help teams replace manual Smartsheet/Excel chaos with scalable analytics and reporting tools.
+By bridging construction tech with data engineering, I help teams replace manual Smartsheet/Excel chaos with scalable analytics and reporting tools. **ChatGPT** and **Cursor AI** were leveraged throughout development projects to expedite build time, refine component structure, and enhance code quality — reflecting how AI tools can accelerate real-world engineering workflows.
 
 I enable construction and commissioning teams to move from manual spreadsheets to automated data pipelines and real-time dashboards.
 
